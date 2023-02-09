@@ -9,5 +9,6 @@ public class gittestone {
         System.out.println("神");
         System.out.println("掌");
         System.out.println("！！！！！！！！");
+        System.out.println("??????");
     }
 }
